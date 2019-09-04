@@ -1,0 +1,7 @@
+
+/** Låt denna kod vara kvar. Den kommer att ge en vit bakgrundsfärg
+ till din musikspelare när du lägger till en audio-tag i HTML:en. **/
+ 
+audio::-webkit-media-controls-panel {
+    background: #ffffff;
+}
